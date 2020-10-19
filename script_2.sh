@@ -1,0 +1,1 @@
+grep "blockID=\"[i|g][0-9]+\"" blocklist.xml
